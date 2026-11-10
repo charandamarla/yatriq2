@@ -1,8 +1,7 @@
-// Copy the Firebase Web App config from Firebase Console → Project settings → Your apps.
-// Do not put service-account credentials or private server keys in this public file.
+
 window.YATRIQ_FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAxlNCgdsLjwSNryFJ4U-QgUD9ZLQSL5tE",
+  authDomain: "yatriq-travel-planner.firebaseapp.com",
+  projectId: "yatriq-travel-planner",
+  appId: "1:937896750805:web:c919bb89f29977e54ebc5c"
 };
